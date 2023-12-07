@@ -13,7 +13,7 @@
   <a href="./releases/tag/1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg"/></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"/></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/></a>
-  <a href="https://github.com/caiocf/d-ulid/"><img src="https://img.shields.io/github/stars/caiocf/d-ulid.svg"/></a>
+  <a href="https://github.com/caiocf/d-ulid/"><img src="https://img.shields.io/github/stars/caiocf/insomnia-plugin-ulid-generator.svg"/></a>
 </p>
 
 
