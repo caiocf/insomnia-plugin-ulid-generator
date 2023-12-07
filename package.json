@@ -1,0 +1,34 @@
+{
+    "name": "insomnia-plugin-ulid-generator",
+    "author": "Caio Ferreira",
+    "license": "Apache",
+    "version": "1.0.0",
+    "description": "Insomnia plugin for generating unique, lexicographically sortable identifiers (ULID). Useful for creating test data and unique identifiers in API requests.",
+    "main": "main.js",
+    "insomnia": {
+        "name": "ulid-generator",
+        "displayName": "ulid-generator",
+        "description": "Generate ULIDs (Universally Unique Lexicographically Sortable Identifiers) for testing and unique identifiers in API requests.",
+        "images": {
+            "icon": "logo.png"
+        },
+        "publisher": {
+            "name": "Caio Ferreira",
+            "icon": "https://avatars.githubusercontent.com/u/14351822"
+        },
+        "unlisted": false
+    },
+    "keywords": [
+        "plugin",
+        "plugins",
+        "insomnia-plugin",
+        "insomnia",
+        "br",
+        "brasil",
+        "ulid-generator",
+        "ulid"
+    ],
+    "repository": "https://github.com/caiocf/insomnia-plugin-ulid-generator",
+    "homepage": "https://github.com/caiocf/insomnia-plugin-ulid-generator#readme",
+    "support": "https://github.com/caiocf/insomnia-plugin-ulid-generator/issues"
+}
