@@ -2,7 +2,7 @@
     "name": "insomnia-plugin-ulid-generator",
     "author": "Caio Ferreira",
     "license": "Apache",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Insomnia plugin for generating unique, lexicographically sortable identifiers (ULID). Useful for creating test data and unique identifiers in API requests.",
     "main": "main.js",
     "insomnia": {
